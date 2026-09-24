@@ -60,7 +60,7 @@ I build software that feels as good as it works — clear interfaces, quiet moti
   </tr>
 </table>
 
-> **CURRENT ARC**  
+> **CURRENT ARC**<br />
 > Making the invisible parts of software feel intentional.
 
 <br />
@@ -134,7 +134,7 @@ I build software that feels as good as it works — clear interfaces, quiet moti
 
 </details>
 
-> **CREDO**  
+> **CREDO**<br />
 > Ship the useful thing. Then make it feel inevitable.
 
 <br />
