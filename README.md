@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/syedhaamidk">
-    <img src="assets/manga-banner.jpeg" alt="Manga-inspired banner for Haamid Khaleelulla Syed" width="100%" />
+    <img src="assets/manga-banner-wide.jpeg" alt="Manga-inspired banner for Haamid Khaleelulla Syed" width="100%" />
   </a>
 
   <br /><br />
